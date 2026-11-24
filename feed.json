@@ -1,4 +1,11 @@
 {
-  "version_code": 2024702421,
-  "patches": []
+  "version_code": 2024702422,
+  "patches": [
+    {
+      "from": 2024702421,
+      "url": "luatok-2024702421-2024702422.luapatch",
+      "bytes": 4219266,
+      "sha256": "413693edbf5495b0a2367df249e57915994ea3b20eda26b6dc4b6a915d2eca53"
+    }
+  ]
 }
