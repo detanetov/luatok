@@ -1,11 +1,17 @@
 {
-  "version_code": 2024702422,
+  "version_code": 2024702424,
   "patches": [
     {
       "from": 2024702421,
-      "url": "luatok-2024702421-2024702422.luapatch",
-      "bytes": 4219266,
-      "sha256": "413693edbf5495b0a2367df249e57915994ea3b20eda26b6dc4b6a915d2eca53"
+      "url": "luatok-2024702421-2024702424.luapatch",
+      "bytes": 4218702,
+      "sha256": "b4ea4c035df8d0ccc238eca306befdba6cb84e07d52fad5b6a8f5ac65588244c"
+    },
+    {
+      "from": 2024702422,
+      "url": "luatok-2024702422-2024702424.luapatch",
+      "bytes": 4218702,
+      "sha256": "48bd7bda9971c00460bf8c1cf7ae1bcccc9bd6635d19f41dfa95b23a0062e8c9"
     }
   ]
 }
