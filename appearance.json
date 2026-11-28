@@ -2,5 +2,6 @@
   "schema": 1,
   "founder_frame": "lua_catbunny_walk",
   "frames": {},
-  "supporters": []
+  "supporters": [],
+  "gifts_api": "https://hjyjuybarjbavnpvjhir.supabase.co/functions/v1/luagifts"
 }
