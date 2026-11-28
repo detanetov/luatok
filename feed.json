@@ -1,179 +1,185 @@
 {
-  "version_code": 2024702452,
+  "version_code": 2024702453,
   "patches": [
     {
+      "from": 2024702452,
+      "url": "luatok-2024702452-2024702453.luapatch",
+      "bytes": 4324292,
+      "sha256": "61934e1f16c5a8e2d77c61ca1d8ab1b6898d8278e4c0cc42944ea1ce4f8896c3"
+    },
+    {
       "from": 2024702451,
-      "url": "luatok-2024702451-2024702452.luapatch",
-      "bytes": 4324569,
-      "sha256": "e7250a70678c5c73e5ab802462b107a15b329ffd7df8fa853e9014e247b82d21"
+      "url": "luatok-2024702451-2024702453.luapatch",
+      "bytes": 4324292,
+      "sha256": "c418a404d8526fb0f5d398d323eba361783d1b93e491af95af5bbd20b903c36c"
     },
     {
       "from": 2024702450,
-      "url": "luatok-2024702450-2024702452.luapatch",
-      "bytes": 4324570,
-      "sha256": "5f8bdf4c61ccd5567e77395022482ead5a0bc9cb98a69461a210ea4bb072cf6b"
+      "url": "luatok-2024702450-2024702453.luapatch",
+      "bytes": 4324291,
+      "sha256": "3be6c907321b2d1f1e4cf987eb8977d8ac247ea4e2030996b2c8a699fe75b603"
     },
     {
       "from": 2024702449,
-      "url": "luatok-2024702449-2024702452.luapatch",
-      "bytes": 4324569,
-      "sha256": "bae3e460c1c55b7a4f91007de874eff345d8bd440a127663a8b37c5ffc29d04d"
+      "url": "luatok-2024702449-2024702453.luapatch",
+      "bytes": 4324292,
+      "sha256": "6810542e3b8d747a3e303e82f7eed59096698cedac3310d966b6d916222e3178"
     },
     {
       "from": 2024702448,
-      "url": "luatok-2024702448-2024702452.luapatch",
-      "bytes": 5827597,
-      "sha256": "f1ec9c0aa39fdc2ece4a653fcf1a0062f736c7c6c649912fc1189eb0983e1e7d"
+      "url": "luatok-2024702448-2024702453.luapatch",
+      "bytes": 5827346,
+      "sha256": "3d5be4231826cf21c2e3afa8eff6881a392dec4789b33a2a6adf29b4c572112c"
     },
     {
       "from": 2024702447,
-      "url": "luatok-2024702447-2024702452.luapatch",
-      "bytes": 5827597,
-      "sha256": "150212a1394964d631832308d8ead63e6279ec74da3132826fb04ed650264f65"
+      "url": "luatok-2024702447-2024702453.luapatch",
+      "bytes": 5827346,
+      "sha256": "d35a521b8ac4f1718acb4a890cd028b87169828b05d310dd20ce64320daa1898"
     },
     {
       "from": 2024702446,
-      "url": "luatok-2024702446-2024702452.luapatch",
-      "bytes": 6549414,
-      "sha256": "560297ef2746e7575890698f5a2b050be3ffe8b817bcc03a76203a192b28c5b5"
+      "url": "luatok-2024702446-2024702453.luapatch",
+      "bytes": 6549094,
+      "sha256": "2d07aa14f4286b92bfd8723e26fb45eeaebc067f65b58643a4976076ad9761d1"
     },
     {
       "from": 2024702445,
-      "url": "luatok-2024702445-2024702452.luapatch",
-      "bytes": 7875715,
-      "sha256": "b3e7981373933e904a9fa6165446da31eb0e97e7bd3c4a8d0ec6acb79f84b5f6"
+      "url": "luatok-2024702445-2024702453.luapatch",
+      "bytes": 7875407,
+      "sha256": "17968b8abd46a91348b548673cb031a58cbc7c76d945ee886cec11bf8f448c46"
     },
     {
       "from": 2024702444,
-      "url": "luatok-2024702444-2024702452.luapatch",
-      "bytes": 7875715,
-      "sha256": "88ea4e5b3ce2985e10ed6ce94b00a8ac278872240fc6d602f798a9c09088657e"
+      "url": "luatok-2024702444-2024702453.luapatch",
+      "bytes": 7875407,
+      "sha256": "227fe4db9bca1a0de826c5bbae39e9d9bb97b93280904a0cb2fb3d3ea85ae96a"
     },
     {
       "from": 2024702443,
-      "url": "luatok-2024702443-2024702452.luapatch",
-      "bytes": 7875715,
-      "sha256": "16c395744ccf179c1b5c093b086170cd0f8d141b93d0afdbb3870b25c1c8bb01"
+      "url": "luatok-2024702443-2024702453.luapatch",
+      "bytes": 7875408,
+      "sha256": "24fccf68a898d1bc48bc334e84b4a17318003ffb60418760a0e3e2c3fc311227"
     },
     {
       "from": 2024702442,
-      "url": "luatok-2024702442-2024702452.luapatch",
-      "bytes": 7875715,
-      "sha256": "c074dd2ca35f9a2190f39dc2245a896684d59fc385752e0f7839c630a3393961"
+      "url": "luatok-2024702442-2024702453.luapatch",
+      "bytes": 7875407,
+      "sha256": "f4210e60488771070b5f3634f86739fa3a3eced6157cc5c293ae12230fa08bc5"
     },
     {
       "from": 2024702441,
-      "url": "luatok-2024702441-2024702452.luapatch",
-      "bytes": 7875715,
-      "sha256": "c486f748ec1d0b435328fcdff42c1a98bb0461485eb80090261baaca1f418d82"
+      "url": "luatok-2024702441-2024702453.luapatch",
+      "bytes": 7875407,
+      "sha256": "5d6a98adc1bf45ab4695fc859a8f92a6f8ee16bda155a2ef3504bdea1c5afe4a"
     },
     {
       "from": 2024702439,
-      "url": "luatok-2024702439-2024702452.luapatch",
-      "bytes": 7875715,
-      "sha256": "edb96243141ea8c6cd67346e0cea005b1169126fe77fc9e39ea9cdb176e478b8"
+      "url": "luatok-2024702439-2024702453.luapatch",
+      "bytes": 7875406,
+      "sha256": "9a7394cc646d074c7e7ce79a8aefedbb95df716069913c8bae8f092fd7979b03"
     },
     {
       "from": 2024702438,
-      "url": "luatok-2024702438-2024702452.luapatch",
-      "bytes": 7875715,
-      "sha256": "74174520db1586ff5fb8d59fe7cf3c9dc1b7ffbc4f23087901cc2c87c62d11c3"
+      "url": "luatok-2024702438-2024702453.luapatch",
+      "bytes": 7875407,
+      "sha256": "bdb49650ee05204c6bf2292dc637142a70c5301b6d098042f52b22e5ffac76f9"
     },
     {
       "from": 2024702437,
-      "url": "luatok-2024702437-2024702452.luapatch",
-      "bytes": 7875715,
-      "sha256": "a7d3b006ecc84f977f52df9efc50a5f12e32e41073396755554629ec72028da3"
+      "url": "luatok-2024702437-2024702453.luapatch",
+      "bytes": 7875406,
+      "sha256": "e0ba2b6783f19170ee1d8446acea24a8ee052d08184df113692870fe67a39ef9"
     },
     {
       "from": 2024702436,
-      "url": "luatok-2024702436-2024702452.luapatch",
-      "bytes": 7875715,
-      "sha256": "8d50f18ab1227e396fbe0fa1f349e8926ab5f06a91bb6cc2e15b6597d60143a6"
+      "url": "luatok-2024702436-2024702453.luapatch",
+      "bytes": 7875407,
+      "sha256": "133a4902429c7ebc49d3318cb5a4c4c632c2a587bd983b01d669f0bb3eda8289"
     },
     {
       "from": 2024702435,
-      "url": "luatok-2024702435-2024702452.luapatch",
-      "bytes": 7875715,
-      "sha256": "32dadc2492d83c42396b9135ab58af64aa014af7a1d248d0e54f7c6e20c70ae7"
+      "url": "luatok-2024702435-2024702453.luapatch",
+      "bytes": 7875407,
+      "sha256": "442256f4cd404ef5e4583d199f900ea3e9e371bcb5751519db1f68101403d390"
     },
     {
       "from": 2024702434,
-      "url": "luatok-2024702434-2024702452.luapatch",
-      "bytes": 12364523,
-      "sha256": "983a17679703ea00f404cb308514dbbbbdd1ea49b2fafdf6e9c9039c4f04f815"
+      "url": "luatok-2024702434-2024702453.luapatch",
+      "bytes": 12364267,
+      "sha256": "704527a68ac7903d3e99952679ae5b4e3a0c2d58d28e73739954674838c7c400"
     },
     {
       "from": 2024702433,
-      "url": "luatok-2024702433-2024702452.luapatch",
-      "bytes": 12364523,
-      "sha256": "b1ed44afeb4c6a5e32bd983a855bf9cf2afc0f565d783d05dfdd0a7a54a41b96"
+      "url": "luatok-2024702433-2024702453.luapatch",
+      "bytes": 12364267,
+      "sha256": "e44c0b8b3f27b4338eb67d72a8abcedb04e22a0607074a3c439db9ba4786126f"
     },
     {
       "from": 2024702432,
-      "url": "luatok-2024702432-2024702452.luapatch",
-      "bytes": 12364523,
-      "sha256": "0c6c1185eb7ab7a291156a353073f376ffb7c9a9ce2ce1d1a4a62bb2047e0dbf"
+      "url": "luatok-2024702432-2024702453.luapatch",
+      "bytes": 12364266,
+      "sha256": "12be5ae80265cac22f515e983dccb6e4e5cc94123a4fb41a1ac96d737a0468b3"
     },
     {
       "from": 2024702431,
-      "url": "luatok-2024702431-2024702452.luapatch",
-      "bytes": 12364523,
-      "sha256": "a68ada245db83379783ce2b7a48233320dfa7136d5e8a4e322fe4fc39e07ec2f"
+      "url": "luatok-2024702431-2024702453.luapatch",
+      "bytes": 12364266,
+      "sha256": "863b5661cd24f544d048517d89de7849338179da2c0c8bba34dc8cc817644c57"
     },
     {
       "from": 2024702430,
-      "url": "luatok-2024702430-2024702452.luapatch",
-      "bytes": 12364523,
-      "sha256": "03f581a7ef8cdaf9470652b727dae53c9d876d36f8cace47b9a48a829d4ff62a"
+      "url": "luatok-2024702430-2024702453.luapatch",
+      "bytes": 12364266,
+      "sha256": "469e5d1877bfe681dc8f0e1bdfacd082e5251d1c20f2f3806fe7caef8afc7299"
     },
     {
       "from": 2024702429,
-      "url": "luatok-2024702429-2024702452.luapatch",
-      "bytes": 12364523,
-      "sha256": "454e49530f250b5b0444cfa8b75519e70e4bc29731112e0c3b4513552716f121"
+      "url": "luatok-2024702429-2024702453.luapatch",
+      "bytes": 12364265,
+      "sha256": "b6a12112a9b39618556ac62ddd58d24b5e4905d73d1a06566d5c87af1b16618a"
     },
     {
       "from": 2024702428,
-      "url": "luatok-2024702428-2024702452.luapatch",
-      "bytes": 12555178,
-      "sha256": "c0629845094d6df90ff5aafa108e0159cfcf17a2f11fe1374510df1e6a920db4"
+      "url": "luatok-2024702428-2024702453.luapatch",
+      "bytes": 12554944,
+      "sha256": "4522b0a64058364dcc5db66a660593f5ae467e018f9dd7021a919b8da4d77597"
     },
     {
       "from": 2024702427,
-      "url": "luatok-2024702427-2024702452.luapatch",
-      "bytes": 16275561,
-      "sha256": "facc030bc11289694b7a2ba7fe3816238172c99fd17b2fdbc15bc8f692e6869d"
+      "url": "luatok-2024702427-2024702453.luapatch",
+      "bytes": 16275393,
+      "sha256": "57f085a41a1b35876910886b5567370bbc06184492f07f1cfc4239c134edbe43"
     },
     {
       "from": 2024702426,
-      "url": "luatok-2024702426-2024702452.luapatch",
-      "bytes": 16275561,
-      "sha256": "dbc683f9f4281baa2c9c960e5638285fe60e30fa0e639a4bb1f6da36c22ef925"
+      "url": "luatok-2024702426-2024702453.luapatch",
+      "bytes": 16275393,
+      "sha256": "3336aaa20d926febae0f41a6b822b3b9624fed4bf7022034207fdd94bc2d50c4"
     },
     {
       "from": 2024702425,
-      "url": "luatok-2024702425-2024702452.luapatch",
-      "bytes": 16275561,
-      "sha256": "5255a7d4b4867bf8fb18cdab1753c7e09ffef00280881888dc20fd9badc5af62"
+      "url": "luatok-2024702425-2024702453.luapatch",
+      "bytes": 16275391,
+      "sha256": "3a7073e0f1cf079074e04fbb0536a48a893f3285b92b19a6ce83c5e13c167e0a"
     },
     {
       "from": 2024702424,
-      "url": "luatok-2024702424-2024702452.luapatch",
-      "bytes": 16275561,
-      "sha256": "b10e6253eafc84f07863d5e6144d4de2cf09510add96c8a39579797cbe89c822"
+      "url": "luatok-2024702424-2024702453.luapatch",
+      "bytes": 16275393,
+      "sha256": "e7da016470e877029cd9412a2219807b07f9fa57dbff74dc9228d93ab2de60a3"
     },
     {
       "from": 2024702422,
-      "url": "luatok-2024702422-2024702452.luapatch",
-      "bytes": 16275561,
-      "sha256": "c14777bec98dc18ed10957d55ab43d68d93447ee17e9666922f77cbac9709ba8"
+      "url": "luatok-2024702422-2024702453.luapatch",
+      "bytes": 16275393,
+      "sha256": "bfdb342fc0643af6683d4b5572c195e26dc734c6e4a49fb18f15cbe1b5cc3e8b"
     },
     {
       "from": 2024702421,
-      "url": "luatok-2024702421-2024702452.luapatch",
-      "bytes": 16275561,
-      "sha256": "0365c866dbb5e27a905eeea74fed0f3bd59a2b05b9015b252711403fcb13f660"
+      "url": "luatok-2024702421-2024702453.luapatch",
+      "bytes": 16275392,
+      "sha256": "8d3e11ab6f17b730c0ce7bc6437cf1e3c6df769d9171934b25e1d01621018b93"
     }
   ]
 }
